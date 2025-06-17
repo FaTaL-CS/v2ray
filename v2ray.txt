@@ -1,1 +1,2 @@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=&encryption=none&type=grpc&sni=pqf1v8.fomula1race.shop#%D0%A1%D0%A8%D0%90
+vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?encryption=none&security=reality&sni=github.com&fp=randomizednoalpn&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c&spx=%2F&allowInsecure=1&type=tcp&headerType=none&host=t.me%2Fv2Line#t.me%2Fv2Line%20%7C%20%282458%29%20%7C%20Amsterdam%20%7C%20NL%20%7C%20VLESS
