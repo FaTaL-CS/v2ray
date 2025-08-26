@@ -1,3 +1,4 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#EEE%20VPN%20%7C%20TG%3A%20%40eeevpnch
-vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Telegram%3A%20%40eeevpnch
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#EEE%20VPN%20%7C%20TG%3A%20%40eeevpnch
+vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Telegram%3A%20%40eeevpnch
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
