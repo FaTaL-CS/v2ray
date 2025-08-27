@@ -1,4 +1,6 @@
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#EEE%20VPN%20%7C%20TG%3A%20%40eeevpnch
-vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Telegram%3A%20%40eeevpnch
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%F0%9F%87%B0%F0%9F%87%BFKZ%20%7C%20VLESS%20Reality%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
+vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20Telegram%3A%20%40eeevpnch
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20VLESS%20%7C%20%40hfsvpn%20%7C%20hfsvpn.rf.gd
